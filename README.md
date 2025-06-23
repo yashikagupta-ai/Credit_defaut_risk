@@ -1,4 +1,6 @@
+
 📂 Project: Multi-Step Regression + Classification for Employee Attrition & Salary Estimation
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 Tech Stack: Python, Scikit-learn, Pandas, Matplotlib
 Dataset: IBM HR Analytics Attrition Dataset
